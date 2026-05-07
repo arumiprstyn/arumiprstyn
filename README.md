@@ -1,5 +1,6 @@
 <div align="center">
-# Hi, I'm Rumi👋
+  
+# Hi, I'm Arum 👋
 
 ### Information Technology Student • Web Developer • UI/UX Enthusiast
 
