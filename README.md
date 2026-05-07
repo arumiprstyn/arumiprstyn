@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="[https://raw.githubusercontent.com/arumiprstyn/arumiprstyn/main/banner-github.png](https://github.com/arumiprstyn/arumiprstyn/blob/main/hJhqV.jpg)" />
+  <img width="100%" src="(https://github.com/arumiprstyn/arumiprstyn/blob/main/hJhqV.jpg)" />
 </div>
 
 
