@@ -31,3 +31,15 @@
 </p>
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arumiprstyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumiprstyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arumiprstyn&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
