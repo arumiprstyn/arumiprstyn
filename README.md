@@ -1,4 +1,9 @@
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/arumiprstyn/arumiprstyn/main/banner-github.png" />
+</div>
+
+
+<div align="center">
 
 # Hi, I'm Rumi 👋
 
