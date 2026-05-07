@@ -1,49 +1,3 @@
-<!-- <div align="center">
-
-# Hi there, I'm Arum 👋
-
-### Technology Information Student | Web Developer | UI/UX Enthusiast
-
-
-
-</div>
-
----
-
-## 🚀 About Me
-
-* 🎓 Technology Information Student
-* 💻 Interested in Web Development & Software Engineering
-* 🎨 Enjoy UI/UX and visual design
-* 🌱 Currently learning backend development & database systems
-* ✨ Love turning ideas into projects
-
----
-
-## ✦ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind css,cs,python,php,laravel,mysql,figma,git,postman,github,vscode" />
-</p>
-
-<p align="center">
-  <i> ✦ Keep learning, keep building, keep growing.✦</i>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arumiprstyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumiprstyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arumiprstyn&theme=tokyonight&hide_border=true&background=00000000" />
-</div>
- -->
-
 <div align="center">
 
 # Hi, I'm Rumi 👋
@@ -60,10 +14,10 @@
 
 Hi, I'm **Rumi**, an Technology Information student passionate about **web development, software engineering, and UI/UX design**.
 
-🌱 Currently learning backend development, system design, and database optimization
-💻 Interested in full-stack development and digital product creation
-🎨 Love combining technology with aesthetic design
-🚀 Always building, learning, and improving
+* 🌱 Currently learning backend development, system design, and database optimization
+* 💻 Interested in full-stack development and digital product creation
+* 🎨 Love combining technology with aesthetic design
+* 🚀 Always building, learning, and improving
 
 ---
 
@@ -94,9 +48,17 @@ Hi, I'm **Rumi**, an Technology Information student passionate about **web devel
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/arumiprstyn">GitHub</a> •
-  <a href="https://linkedin.com/in/langgengarum">LinkedIn</a> •
-  <a href="mailto:langgengarum41@gmail.com">Email</a>
+  <a href="https://github.com/arumiprstyn">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/langgengarum">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:langgengarum41@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
+  </a>
 </p>
 
 ---
