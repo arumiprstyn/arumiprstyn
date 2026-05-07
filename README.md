@@ -1,11 +1,7 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/arumiprstyn/arumiprstyn/main/hJhqV.jpg" />
-</div>
 
-
-<div align="center">
-
-# Hi, I'm Rumi 👋
+# Hi, I'm Rumi👋
 
 ### Technology Information Student • Web Developer • UI/UX Enthusiast
 
