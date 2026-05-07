@@ -20,15 +20,15 @@
 
 ---
 
-## 🛠 Tech Stack
+## ✦ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge\&logo=csharp\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge\&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,php,laravel,mysql,figma,git,github,vscode" />
+</p>
+
+<p align="center">
+  <i>building ideas into real impact ✦</i>
+</p>
 
 ---
 
