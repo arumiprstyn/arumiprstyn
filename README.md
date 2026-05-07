@@ -33,5 +33,5 @@
 ---
 
 <div align="center">
-✨ *Keep learning, keep building, keep growing.* ✨
+✨ Keep learning, keep building, keep growing. ✨
 </div>
