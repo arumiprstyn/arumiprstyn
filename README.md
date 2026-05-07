@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Informatics Student
+* 🎓 Technology Information Student
 * 💻 Interested in Web Development & Software Engineering
 * 🎨 Enjoy UI/UX and visual design
 * 🌱 Currently learning backend development & database systems
@@ -32,19 +32,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-🚗 EcoDrive – Electric Vehicle Rental System
-🏫 School Management System (OOP C#)
-🎥 Digital Education Campaign Project
-🎨 Creative Design & Branding Projects
-
----
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arumiprstyn\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arumiprstyn\&layout=compact\&theme=tokyonight)
 
 ---
 
