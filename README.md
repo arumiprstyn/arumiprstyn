@@ -2,7 +2,7 @@
 
 # Hi there, I'm Arum 👋
 
-### Informatics Student | Web Developer | UI/UX Enthusiast
+### Technology Information Student | Web Developer | UI/UX Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+Projects+with+Passion;Learning+Something+New+Everyday" />
 
