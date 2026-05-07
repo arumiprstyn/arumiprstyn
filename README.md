@@ -27,23 +27,7 @@
 </p>
 
 <p align="center">
-  <i>building ideas into real impact ✦</i>
+  <i> ✦ Keep learning, keep building, keep growing.✦</i>
 </p>
 
 ---
-## ⚡ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,php,laravel,mysql,figma,canva,git,github,vscode&theme=dark" />
-</p>
----
-## 💻 Technologies
-
-| Frontend          | Backend                  | Database | Design       | Tools                |
-| ----------------- | ------------------------ | -------- | ------------ | -------------------- |
-| HTML, CSS, JS, TS | C#, Python, PHP, Laravel | MySQL    | Figma, Canva | Git, GitHub, VS Code |
-
-
-<div align="center">
-✨ Keep learning, keep building, keep growing. ✨
-</div>
