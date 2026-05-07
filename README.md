@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img width="100%" src="PASTE_BANNER_KAMU_DISINI"/>
+<img width="100%" src=""/>
 
 # Hi, I'm Arum 👋
 
@@ -115,3 +115,97 @@ Hi, I'm **Arum**, an Informatics student passionate about **web development, sof
 <div align="center">
 ✨ <b>Build • Learn • Design • Repeat</b> ✨
 </div>
+
+
+
+<div align="center">
+
+# ✦ Hi, I'm Arum 👋
+
+### Informatics Student • Web Developer • UI/UX Enthusiast
+
+</div>
+
+---
+
+## 🖤 About Me
+
+Hi, I'm **Arum** — an Informatics student passionate about
+**web development, software engineering, and UI/UX design**.
+
+🌱 Currently learning backend development, system design, and database optimization
+💻 Interested in full-stack development & digital product creation
+🎨 Love combining technology with aesthetic design
+🚀 Always building, learning, and improving
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,python,ts,js" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+</p>
+
+### 🔧 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,dotnet" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arumiprstyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumiprstyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arumiprstyn&theme=tokyonight&hide_border=true&background=00000000"/>
+</div>
+
+---
+
+## ✨ Quote
+
+> *Code is not just code, it's logic, creativity, and passion.* 🖤
+
+---
+
+<div align="center">
+
+💌 **Contact Me**
+📍 Jember, Jawa Timur
+📧 [langgengarum41@gmail.com](mailto:langgengarum41@gmail.com)
+🔗 linkedin.com/in/langgengarum
+
+</div>
+
