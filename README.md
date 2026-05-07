@@ -46,8 +46,6 @@
 
 <div align="center">
 
-<img width="100%" src=""/>
-
 # Hi, I'm Rumi 👋
 
 ### Technology Information Student • Web Developer • UI/UX Enthusiast
@@ -71,10 +69,9 @@ Hi, I'm **Rumi**, an Technology Information student passionate about **web devel
 
 ## ⚡ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,python,php,laravel,mysql,postgres,postman,git,github,vscode,figma" />
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,python,php,laravel,mysql,postgres,postman,git,github,vscode,figma&theme=dark" />
+</p>
 
 </div>
 
