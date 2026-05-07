@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi there, I'm Arum 👋
 
@@ -42,4 +42,76 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arumiprstyn&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
+ -->
 
+<div align="center">
+
+<img width="100%" src="PASTE_BANNER_KAMU_DISINI"/>
+
+# Hi, I'm Arum 👋
+
+### Informatics Student • Web Developer • UI/UX Enthusiast
+
+<i>Code is not just code — it's logic, creativity, and passion.</i>
+
+</div>
+
+---
+
+## 🖤 About Me
+
+Hi, I'm **Arum**, an Informatics student passionate about **web development, software engineering, and UI/UX design**.
+
+🌱 Currently learning backend development, system design, and database optimization
+💻 Interested in full-stack development and digital product creation
+🎨 Love combining technology with aesthetic design
+🚀 Always building, learning, and improving
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,php,laravel,mysql,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arumiprstyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumiprstyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=arumiprstyn&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+🌾 **Digital Platform for Optimizing Seed Sales Transactions**
+💻 **PBO Module Task (C# OOP Project)**
+⚽ **Sporton Frontend Project**
+🎨 **Creative UI / Branding Projects**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/arumiprstyn">GitHub</a> •
+  <a href="https://linkedin.com/in/langgengarum">LinkedIn</a> •
+  <a href="mailto:langgengarum41@gmail.com">Email</a>
+</p>
+
+---
+
+<div align="center">
+✨ <b>Build • Learn • Design • Repeat</b> ✨
+</div>
