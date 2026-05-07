@@ -1,9 +1,6 @@
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/arumiprstyn/arumiprstyn/main/hJhqV.jpg" />
-
 # Hi, I'm Rumi👋
 
-### Technology Information Student • Web Developer • UI/UX Enthusiast
+### Information Technology Student • Web Developer • UI/UX Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+Projects+with+Passion;Learning+Something+New+Everyday" />
 
@@ -13,7 +10,7 @@
 
 ## 🖤 About Me
 
-Hi, I'm **Rumi**, an Technology Information student passionate about **web development, software engineering, and UI/UX design**.
+Hi, I'm **Rumi**, an Information Technology  student passionate about **web development, software engineering, and UI/UX design**.
 
 * 🌱 Currently learning backend development, system design, and database optimization
 * 💻 Interested in full-stack development and digital product creation
