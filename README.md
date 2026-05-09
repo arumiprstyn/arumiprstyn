@@ -29,11 +29,8 @@ Hi, I'm **Rumi**, an Information Technology  student passionate about **web deve
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
+<!-- <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=arumiprstyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
@@ -41,7 +38,7 @@ Hi, I'm **Rumi**, an Information Technology  student passionate about **web deve
 
 <img width="80%" src="https://streak-stats.demolab.com?user=arumiprstyn&theme=tokyonight&hide_border=true&background=00000000"/>
 
-</div>
+</div> -->
 
 ---
 
