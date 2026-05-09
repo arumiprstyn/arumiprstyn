@@ -24,7 +24,7 @@ Hi, I'm **Rumi**, an Information Technology  student passionate about **web deve
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,python,mysql,postgres,postman,git,github,vscode,visual studio,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,python,mysql,postgres,postman,git,github,vscode,vs,figma&theme=dark" />
 </p>
 
 </div>
